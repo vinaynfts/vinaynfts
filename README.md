@@ -58,9 +58,9 @@ MLOps	⭐⭐⭐☆☆	Model serving, MLflow, CI/CD for ML, monitoring
 ---
 🚀 Featured Projects
 <details>
-<summary><b>📦 [Project Name One]</b></summary>
+<summary><b>📦 [cold store ERP]</b></summary>
 <br/>
-[One or two sentence description — what the project does and the problem it solves.]
+[ColdStore Manager is a PHP-powered inventory and climate-control platform designed to streamline real-time stock tracking and temperature monitoring.]
 	
 Stack	[e.g. React, Node.js, PostgreSQL, Redis, Docker]
 Scale	[e.g. active users, requests/day, data volume]
@@ -68,12 +68,16 @@ Performance	[e.g. p95 latency, throughput, load test results]
 Security	[e.g. auth strategy, encryption, compliance]
 Impact	[e.g. measurable outcome or business result]
 Repository	🔗 View Repository
-[Paragraph explaining the engineering decisions, trade-offs, and challenges solved — why this project matters technically.]
+[Architectural Decisions, Trade-Offs & Challenges Solved
+
+"Building a Cold Storage Management System required balancing real-time data accuracy with low operational overhead. Leveraging PHP for the backend provided a lightweight, battle-tested architecture to handle critical workflows like batch tracking, temperature monitoring, and high-frequency inventory updates. A key engineering challenge was managing dynamic stock movements (inflow/outflow) while maintaining transactional integrity across multiple cold chambers—a trade-off resolved by prioritizing robust database indexing and concurrency locks over asynchronous complexity. This project matters technically because it replaces error-prone manual logistics with an automated data pipeline, proving that monolithic PHP architectures can deliver deterministic, highly reliable inventory precision in fast-moving supply chain environments.".]
 </details>
 <details>
-<summary><b>📦 [Project Name Two]</b></summary>
+<summary><b>📦 [iCarePDF]</b></summary>
 <br/>
-[One or two sentence description — what the project does and the problem it solves.]
+[iCarePDF is a light, fast web platform designed to merge, split, compress, and convert PDF files directly in your browser.
+
+It simplifies document workflows by providing accessible, no-nonsense tools for quick daily file editing without needing heavy software installs]
 	
 Stack	[e.g. Python, FastAPI, PyTorch, AWS]
 Scale	[e.g. dataset size, model parameters, inference volume]
@@ -81,45 +85,16 @@ Performance	[e.g. accuracy, inference latency]
 Security	[e.g. data privacy, access control]
 Impact	[e.g. measurable outcome]
 Repository	🔗 View Repository
-[Paragraph explaining the engineering decisions, trade-offs, and challenges solved.]
+[iCarePDF is an all-in-one web application that allows users to quickly merge, split, compress, and convert PDF documents directly in the browser.
+
+It solves the hassle of installing bloated software or paying for subscriptions just to perform everyday, quick file modifications..]
 </details>
 <details>
-<summary><b>📦 [Project Name Three]</b></summary>
-<br/>
-[One or two sentence description — what the project does and the problem it solves.]
-	
-Stack	[Your stack here]
-Scale	[Your scale metric here]
-Performance	[Your performance metric here]
-Security	[Your security note here]
-Impact	[Your impact metric here]
-Repository	🔗 View Repository
-[Paragraph explaining the engineering decisions, trade-offs, and challenges solved.]
+lved.]
 </details>
 ---
-💼 Experience
-[Job Title]
-[Company Name]  ·  [Start Date] – [End Date]
-[One paragraph describing the scope and focus of the role.]
-[Scope of work — e.g. designed and shipped a core service used by X]
-[Scope of work — e.g. led migration from A to B, improving Y]
-[Scope of work — e.g. collaborated with product/design on Z]
-<img src="https://img.shields.io/badge/-Skill_One-4C1D95?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/-Skill_Two-6D28D9?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/-Skill_Three-7C3AED?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/-Skill_Four-8B5CF6?style=flat-square" alt=""/>
-<br/>
-[Job Title]
-[Company Name]  ·  [Start Date] – [End Date]
-[One paragraph describing the scope and focus of the role.]
-[Scope of work]
-[Scope of work]
-[Scope of work]
-<img src="https://img.shields.io/badge/-Skill_One-4C1D95?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/-Skill_Two-6D28D9?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/-Skill_Three-7C3AED?style=flat-square" alt=""/>
----
-🏆 Achievements
-<div align="center">
-Recognition	Details
-[Achievement / Award Name]	[Where, when, and why it was awarded]
-[Achievement / Award Name]	[Where, when, and why it was awarded]
-[Achievement / Award Name]	[Where, when, and why it was awarded]
+
+
 </div>
 ---
 📜 Certifications
