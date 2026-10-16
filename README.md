@@ -32,7 +32,7 @@
 
 ### 🧠 About Me
 
-I'm Vinay — a Full-Stack Web Developer who enjoys turning ideas into clean, working products. I build end-to-end, from the database and REST APIs to the interfaces people actually use, with React.js, Node.js, and PHP at the core of my stack.
+I'm (P_Sharma)Vinay — a Full-Stack Web Developer who enjoys turning ideas into clean, working products. I build end-to-end, from the database and REST APIs to the interfaces people actually use, with React.js, Node.js, and PHP at the core of my stack.
 
 I care about readable, maintainable code, responsive and user-focused UI, and shipping things that actually solve a problem rather than just demoing well.
 
